@@ -101,3 +101,9 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
